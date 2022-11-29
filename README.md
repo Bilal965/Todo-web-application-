@@ -14,4 +14,4 @@ http://127.0.0.1:8000/api/user/alltodo/,
 [superuser] basic auth
 admin = bilal
 mail= bilal@gmail.com
-password= 123456
+password= 12345
